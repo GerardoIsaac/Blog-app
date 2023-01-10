@@ -1,4 +1,4 @@
-$lightGreen: #b9e7e7;
+$lightGreen: #b9e7cb;
 
 .app {
     display: flex;
@@ -66,6 +66,7 @@ $lightGreen: #b9e7e7;
         // NAVBAR
 
         .navbar {
+            border-bottom: 1px solid teal;
             .container {
                 padding: 10px 0px;
                 display: flex;
